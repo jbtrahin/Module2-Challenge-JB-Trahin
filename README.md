@@ -1,5 +1,5 @@
 # Module2-Challenge-JB-Trahin
-Repository containing the spreadsheet and VBA scirpt that perform stocks analysis.
+Repository containing the spreadsheet and VBA script that perform stocks analysis.
 
 ### Challenge 2 - VBA
 
